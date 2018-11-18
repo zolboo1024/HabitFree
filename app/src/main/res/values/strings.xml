@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Habit Free</string>
+    <string-array name="planNames">
+        <item> WeekendPlan</item>
+        <item> WeekdaysPlan</item>
+        <item> ForKidsPlan</item>
+    </string-array>
+    <string-array name="planTimes">
+        <item> 5 hours a day</item>
+        <item> 30 minutes a day </item>
+        <item> No use at all</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="blockButton">I will not use my phone at all</string>
+    <string name="limitPlan">I will limit my phone usage</string>
+    <string name="planUsage">I want to make a scheduled plan for my phone usage</string>
+    <string name="title_activity_time_picker">timePicker</string>
+    <string name="clock_instructions">Select a clock to display.</string>
+    <string name="no_use_until">Time off will end at:</string>
+    <string name="start">START</string>
+    <string name="enjoy">Enjoy your time to digital detox!</string>
+    <string name="next">NEXT</string>
+    <string name="unblock">Select applications to block</string>
+    <string name="unblocked">Blocked Applications:</string>
+    <string name="done">DONE</string>
+    <string name="zero">00 : 00 : 00</string>
+    <string name="timeOffUntilTextDemo">THIS IS HOW BIG IT IS</string>
+    <string name="giveUp"> Sure you want to give up? </string>
+    <string name="sure"> Yes</string>
+    <string name="cancel"> Cancel</string>
+    <string name="forceStop">Force Stop</string>
+    <string name="until">Digital Detox Until:</string>
+    <string name="until2">Digital Detox Until:</string>
+    <string name="finish">FINISH</string>
+    <string name="unplugged">You Unplugged Today For:</string>
+    <string name="descr">Total time saved using this app:</string>
+    <string name="dontForget">Please don\'t forget to pin this application so you don\'t accidentally stop the digital detox</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#32CD32</color>
+    <color name="colorPrimaryDark">#32CD32</color>
+    <color name="colorAccent">#32CD32</color>
+    <color name="ampm_on">#3F51B5</color>
+    <color name="ampm_off">#303F9F</color>
+    <color name="white">#ffffffff</color>
+    <color name="red">#ffee0000</color>
+    <color name="ltgrey">#ffe0e0e0</color>
+</resources>
