@@ -1,4 +1,4 @@
-# Habit-Free-Application-Entire-Source-Code
+# Habit Free Application Entire Source Code
 Here's the entire source code for Habit Free application.
 
 This application is posted on Google Play Store at https://play.google.com/store/apps/details?id=zz.zolboo
