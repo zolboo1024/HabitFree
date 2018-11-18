@@ -13,7 +13,7 @@ Note: This won't be able to function as a system app so once you exit out of it,
 
 For Developers:
 This app makes use of number of functions that doesn't exist in Android library.
-Here are some things that you may find useful:
+Here are some things that you may find useful: \n
 "AllAppsList" class lets you make a list of every applications that are 
 installed on your users' phone and display them in a ListView style.
 Note: it may not contain "system" or "root" applications 
